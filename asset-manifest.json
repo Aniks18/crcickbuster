@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crcickbuster/static/css/main.fd66925b.css",
+    "main.js": "/crcickbuster/static/js/main.9ca5d0cd.js",
+    "static/js/453.2cf51284.chunk.js": "/crcickbuster/static/js/453.2cf51284.chunk.js",
+    "index.html": "/crcickbuster/index.html",
+    "main.fd66925b.css.map": "/crcickbuster/static/css/main.fd66925b.css.map",
+    "main.9ca5d0cd.js.map": "/crcickbuster/static/js/main.9ca5d0cd.js.map",
+    "453.2cf51284.chunk.js.map": "/crcickbuster/static/js/453.2cf51284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd66925b.css",
+    "static/js/main.9ca5d0cd.js"
+  ]
+}
